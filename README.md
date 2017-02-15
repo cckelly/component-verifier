@@ -10,7 +10,7 @@ I've added a simple GUI which can be accessed with `Window/Component Verifier`.
 
 # Installation
 
-You can drop the script from Assets/Editor into your own project or simply export ComponentVerifier.unitypackage.
+You can drop the script from Assets/Editor into your own project or simply import ComponentVerifier.unitypackage.
 
 # TODO
 
